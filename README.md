@@ -83,16 +83,18 @@ To set up the database, follow these steps:
 
 ## ERD
 
-![ERD](./<img width="571" alt="erd" src="https://github.com/user-attachments/assets/3800321c-037c-474f-8817-d2718102fc96" />
+(./<img width="571" alt="erd" src="https://github.com/user-attachments/assets/3800321c-037c-474f-8817-d2718102fc96" />
 )
 
 ## Screenshots
 
 ### Home Page
 #### Dark Theme
-![Homepage](./images/Homepage.png)
+![Homepage](./<img width="372" alt="Homepage" src="https://github.com/user-attachments/assets/d03b8be3-a27c-4b11-955b-092cff9cdf11" />
+)
 #### Light Theme
-![Homepage](./images/Homepage_l.png)
+![Homepage](./<img width="375" alt="Homepage_l" src="https://github.com/user-attachments/assets/6b57fa56-1683-44f4-8afb-7a5f81e1b7c7" />
+)
 
 ### Login Page
 #### Dark Theme
