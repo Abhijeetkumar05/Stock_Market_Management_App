@@ -106,29 +106,37 @@ To set up the database, follow these steps:
 
 ### Sign-Up Page
 #### Dark Theme
-![Sign-Up](./images/sign_up.png)
+<img width="368" alt="sign_up" src="https://github.com/user-attachments/assets/03f4ed82-12ae-4b94-a545-5b9dd50f9e39" />
+
 #### Light Theme
-![Sign-Up](./images/sign_up_l.png)
+<img width="371" alt="sign_up_l" src="https://github.com/user-attachments/assets/66a963f1-f49a-4f82-be6a-8cbfc5ec57ea" />
+
 
 ### Dashboard
 #### Dark Theme
-![Dashboard](./images/dashboard.png)
+<img width="369" alt="dashboard" src="https://github.com/user-attachments/assets/0cb38f0a-c02d-488d-844a-2c9e6693230b" />
+
 #### Light Theme
-![Dashboard](./images/dashboard_l.png)
+<img width="370" alt="dashboard_l" src="https://github.com/user-attachments/assets/5defb69e-a9d4-408f-b057-56111dbfb9a6" />
+
 
 ### Orders
 #### Dark Theme <br>
-![Order](./images/order.png)
+<img width="221" alt="order" src="https://github.com/user-attachments/assets/5f2c49d7-f2f7-44df-90ec-c8918084ed2c" />
+
 #### Light Theme <br>
-![Order](./images/order_l.png)
+<img width="220" alt="order_l" src="https://github.com/user-attachments/assets/5d50378b-59bb-4907-979e-ba05b3eabb2c" />
+
 
 ## Process Flow Diagram
 
 ### Login/Sign-up Workflow
-![homepage work flow](./images/lswork.png)
+![lswork](https://github.com/user-attachments/assets/39c5b0ef-ee3e-4386-b6fd-2a8453be6c9e)
+
 
 ### Order Workflow
-![Order flow](./images/orderflow.png)
+![orderflow](https://github.com/user-attachments/assets/672a3d65-802b-4b69-8c51-da7e4f218113)
+
 
 ## Future Scope
 
