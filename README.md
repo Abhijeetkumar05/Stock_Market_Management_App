@@ -4,9 +4,9 @@ Stock Market Management System is a Python application that allows users to mana
 
 ## About Me
 > **Name:** Abhijeet kumar
->> **Affiliated with:** srm institute of science and Technology 
->>> **Educational Background:** Bachelor of technology(b-tech)
->>>> **Honors:** computer science and engineering 
+>> **Affiliated with:** SRM Institute of Science and Technology
+>>> **Educational Background:** Bachelor of Technology (B.Tech)
+>>>> **Major:** Computer Science and Engineering
 
 ## Table of Contents
 
