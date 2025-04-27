@@ -28,8 +28,6 @@ Stock Market Management System is a Python application that allows users to mana
 
 > [Future Scope](#future-scope)
 
-> [License](#license)
-
 ## Features
 
 - User registration with details like full name, PAN card, Aadhar number, phone number, and initial balance.
@@ -85,7 +83,8 @@ To set up the database, follow these steps:
 
 ## ERD
 
-![ERD](./images/erd.png)
+![ERD](./<img width="571" alt="erd" src="https://github.com/user-attachments/assets/3800321c-037c-474f-8817-d2718102fc96" />
+)
 
 ## Screenshots
 
